@@ -1,3 +1,4 @@
 Hello from Jenkins!
 Building a pipeline
 Testing pipeline
+Testing the trigger
